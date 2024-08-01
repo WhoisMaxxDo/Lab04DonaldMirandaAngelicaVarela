@@ -1,0 +1,2 @@
+shampoo, pantene, 3150, 15
+pannial, huggie, 7330, 25
