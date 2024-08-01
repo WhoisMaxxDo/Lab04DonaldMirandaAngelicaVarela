@@ -12,7 +12,7 @@ class Productos:
         self.provedor = pproveedor
 
     def __str__(self):
-        return f"codigo: {self.codigo}, nombre: {self.nombre}, marca: {self.marca}, precio: {self.precio}, existencias: {self.existencias}, provedor: {self.provedor[" nombre"]}"
+        return f"codigo: {self.codigo}, nombre: {self.nombre}, marca: {self.marca}, precio: {self.precio}, existencias: {self.existencias}, provedor: {self.provedor["nombre"]}"
 
 def submenu():
     while True:
